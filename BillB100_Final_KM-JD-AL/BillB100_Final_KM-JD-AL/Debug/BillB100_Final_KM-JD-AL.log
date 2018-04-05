@@ -1,0 +1,48 @@
+﻿Build started 6/21/2017 2:41:39 PM.
+     1>Project "C:\Users\Kyle Muldoon\Desktop\BillB100_Final_KM-JD-AL\BillB100_Final_KM-JD-AL\BillB100_Final_KM-JD-AL.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp Song.cpp
+         Song.cpp
+         main.cpp
+     1>c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\filestorage.h(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\main.cpp(34): warning C4101: 'searchchoice' : unreferenced local variable
+     1>c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\hash.h(139): warning C4018: '<' : signed/unsigned mismatch
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\hash.h(136) : while compiling class template member function 'int Hash<Song>::HashVal(std::string)'
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\hash.h(183) : see reference to function template instantiation 'int Hash<Song>::HashVal(std::string)' being compiled
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\filestorage.h(90) : while compiling class template member function 'void FileStorage<BST<Song>>::readFromFile(BST<Song> &,Hash<Song> &)'
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\main.cpp(118) : see reference to function template instantiation 'void FileStorage<BST<Song>>::readFromFile(BST<Song> &,Hash<Song> &)' being compiled
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\main.cpp(30) : see reference to class template instantiation 'FileStorage<BST<Song>>' being compiled
+     1>c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\list.h(94): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\list.h(88) : definition of 'i' ignored
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\list.h(74) : definition of 'i' used
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\list.h(75) : while compiling class template member function 'void List<touple<T>>::add(int,touple<T>)'
+                 with
+                 [
+                     T=Song
+                 ]
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\hash.h(193) : see reference to function template instantiation 'void List<touple<T>>::add(int,touple<T>)' being compiled
+                 with
+                 [
+                     T=Song
+                 ]
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\hash.h(28) : see reference to class template instantiation 'List<touple<T>>' being compiled
+                 with
+                 [
+                     T=Song
+                 ]
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\hash.h(62) : while compiling class template member function 'Hash<Song>::Hash(void)'
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\main.cpp(32) : see reference to function template instantiation 'Hash<Song>::Hash(void)' being compiled
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\main.cpp(32) : see reference to class template instantiation 'Hash<Song>' being compiled
+     1>c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\list.h(123): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\list.h(115) : definition of 'i' ignored
+                 c:\users\kyle muldoon\desktop\billb100_final_km-jd-al\billb100_final_km-jd-al\list.h(74) : definition of 'i' used
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kyle Muldoon\Desktop\BillB100_Final_KM-JD-AL\Debug\BillB100_Final_KM-JD-AL.exe" /INCREMENTAL /NOLOGO winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Kyle Muldoon\Desktop\BillB100_Final_KM-JD-AL\Debug\BillB100_Final_KM-JD-AL.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kyle Muldoon\Desktop\BillB100_Final_KM-JD-AL\Debug\BillB100_Final_KM-JD-AL.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Song.obj
+         BillB100_Final_KM-JD-AL.vcxproj -> C:\Users\Kyle Muldoon\Desktop\BillB100_Final_KM-JD-AL\Debug\BillB100_Final_KM-JD-AL.exe
+     1>Done Building Project "C:\Users\Kyle Muldoon\Desktop\BillB100_Final_KM-JD-AL\BillB100_Final_KM-JD-AL\BillB100_Final_KM-JD-AL.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.72

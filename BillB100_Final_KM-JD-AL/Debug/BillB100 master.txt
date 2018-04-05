@@ -1,0 +1,50 @@
+Despacito	Luis Fonsi	1	1
+I'm The One	DJ Kaled	2	3
+That's What I Like	Bruno Mars	3	2
+Shape of You	Ed Sheeran	4	4
+Humble	Kendrick Lamar		5	5
+Mask Off	Future	6	6
+Something Just Like This	The Chainsmokers	7	8
+Stay	Zedd	8	9
+Congratulations	Post Malone	9	10
+XO TOUR Lif3	Lil Uzi Vert	10	9
+Body Like A Back Road	Sam Hunt	11	12
+Say You Won't Let Go	James Arthur	12	11
+Issues	Julia Michaels	13	12
+Redbone	Childish Gambino	14	15
+Believer	Imagine Dragons	15	14
+2U	David Guetta	16	16
+It Ain't Me	Kygo	17	16
+Unforgettable	French Montana	18	17
+There's Nothing Holdin' Me Back	Shawn Mendes	19	18
+Now Or Never	Halsey	20	21
+Castle On The Hill	Ed Sheeran	21	22
+iSpy	Kyle	22	21
+Bad Liar	Selena Gomez	23	24
+Slow Hands	Niall Horan	24	25
+Malibu	Miley Cyrus	25	26
+Rolex	Ayo & Teo	26	25
+Attention	Charlie Puth	27	28
+Location	Khalid	28	27
+Sign Of The Times	Harry Styles	29	28
+Swalla	Jason Derulo	30	29
+In Case You Didn't Know	Brett Young	31	30
+DNA	Kendrick Lamar	32	31
+Magnolia	Playboi Carti	33	34
+Closer	The Chainsmokers	34	33
+Bad and Boujee	Migos	35	34
+Slippery	Migos	36	37
+Everyday We Lit	YFN Lucci	37	38
+Goosebumps	Travis Scott	38	37
+24K Magic	Bruno Mars	39	40
+Tunnel Vision	Kodak Black	40	39
+T-Shirt	Migos	41	40
+Drowning	A Boogie Wit Da Hoodie	42	43
+Hurricane	Luke Combs	43	42
+Strip That Down	Liam Payne	44	45
+Passionfruit	Drake	45	44
+Slide	Calvin Harris	46	45
+The Fighter	Keith Urban	47	48
+The Cure	Lady Gaga	48	47
+Scars To Your Beautiful	Alessia Cara	49	48
+Swang	Rae Sremmurd	50	49
